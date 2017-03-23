@@ -1,0 +1,14 @@
+# 最上位の設定ファイルとして指定
+root = true
+ 
+[*]
+# 改行コード
+end_of_lilne = lf
+# 文字コード
+charset = utf-8
+# 余分なスペースやタブなどを削除
+trim_trailing_whitespace = true
+# インデントはスペース
+indent_style = space
+# インデントスタイル 2スペース
+indent_size = 2
